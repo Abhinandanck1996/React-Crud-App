@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Rithesh",
+      "details": "Kunigal",
+      "id": 1
+    },
+    {
+      "title": "Richter",
+      "details": "Kerala Cheta",
+      "id": 2
+    },
+    {
+      "title": "Prasanth",
+      "details": "Mysore",
+      "id": 3
+    }
+  ]
+}
